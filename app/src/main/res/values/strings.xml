@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="SYDNEY">SYDNEY</string>
+    <string name="EGYPT">EGYPT</string>
+    <string name="INDIA">INDIA</string>
+    <string name="YORK">NEW YORK</string>
+    <string name="KONG">THAILAND</string>
+
+</resources>
